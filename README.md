@@ -3,6 +3,7 @@ Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalizat
 # Structure
 step 1:	pre-processing
 
+Create paired patches:
 ![y](https://user-images.githubusercontent.com/27900037/72141237-b3f5b200-33a7-11ea-936a-45393dada126.png)
 
 
