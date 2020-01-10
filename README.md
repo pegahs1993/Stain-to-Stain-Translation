@@ -2,6 +2,7 @@
 Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalization in Histopathology Images Analysis 
 # Structure
 step 1:	pre-processing
+
 ![y](https://user-images.githubusercontent.com/27900037/72141237-b3f5b200-33a7-11ea-936a-45393dada126.png)
 
 
@@ -16,9 +17,8 @@ https://drive.google.com/drive/folders/1-ZIFlba3oz5fas1tqup6Cbm7VWL3jeXm
 
 step 4:	post-processing
 
-
-
 step 5:	evaluation 
+
 ![h](https://user-images.githubusercontent.com/27900037/72138986-287a2200-33a3-11ea-8e34-b0651b8c140c.png)
 
 
