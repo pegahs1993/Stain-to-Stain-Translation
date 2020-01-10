@@ -6,6 +6,8 @@ Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalizat
 
 •	stain-to-stain translation model
 
+![model](https://user-images.githubusercontent.com/27900037/72138589-557a0500-33a2-11ea-9567-c3f88c1184ab.png)
+
 •	using_stst
 
 •	post-processing
