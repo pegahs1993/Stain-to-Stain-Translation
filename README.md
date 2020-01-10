@@ -1,4 +1,6 @@
-# Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalization in Histopathology Images Analysis 
+# Stain-to-Stain Translation
+Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalization in Histopathology Images Analysis 
+
 # Structure
 step 1:	pre-processing
 
