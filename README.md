@@ -4,11 +4,16 @@ Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalizat
 step 1:	pre-processing
 
 step 2:	stain-to-stain translation model
+
 ![model](https://user-images.githubusercontent.com/27900037/72138589-557a0500-33a2-11ea-9567-c3f88c1184ab.png)
 step 3:	using_stst
+
 The two models of 'model-17-2200' and 'model-11-2400' are included in Google Drive. You can download them via the link below.
+
 https://drive.google.com/drive/folders/1-ZIFlba3oz5fas1tqup6Cbm7VWL3jeXm
+
 step 4:	post-processing
+
 
 step 5:	evaluation 
 ![h](https://user-images.githubusercontent.com/27900037/72138986-287a2200-33a3-11ea-8e34-b0651b8c140c.png)
