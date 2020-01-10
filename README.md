@@ -13,8 +13,7 @@ step 2:	stain-to-stain translation model
 ![model](https://user-images.githubusercontent.com/27900037/72138589-557a0500-33a2-11ea-9567-c3f88c1184ab.png)
 step 3:	using_stst
 
-The two models of 'model-17-2200' and 'model-11-2400' are included in Google Drive. You can download them via the link below.
-
+The two models of 'model-17-2200' and 'model-11-2400' are included in Google Drive. You can download them via this link.
 https://drive.google.com/drive/folders/1-ZIFlba3oz5fas1tqup6Cbm7VWL3jeXm
 
 step 4:	post-processing
