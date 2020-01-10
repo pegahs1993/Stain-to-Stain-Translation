@@ -2,24 +2,24 @@
 Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalization in Histopathology Images Analysis 
 
 # Structure
-step 1:	pre-processing
+**step 1:	pre-processing**
 
 Create paired patches:
 
 ![y](https://user-images.githubusercontent.com/27900037/72141237-b3f5b200-33a7-11ea-936a-45393dada126.png)
 
 
-step 2:	stain-to-stain translation model
+**step 2:	stain-to-stain translation model**
 
 ![model](https://user-images.githubusercontent.com/27900037/72138589-557a0500-33a2-11ea-9567-c3f88c1184ab.png)
-step 3:	using_stst
+**step 3:	using_stst**
 
 The two models of 'model-17-2200' and 'model-11-2400' are included in Google Drive. You can download them via this link.
 https://drive.google.com/drive/folders/1-ZIFlba3oz5fas1tqup6Cbm7VWL3jeXm
 
-step 4:	post-processing
+**step 4:	post-processing**
 
-step 5:	evaluation 
+**step 5:	evaluation** 
 
 ![h](https://user-images.githubusercontent.com/27900037/72147740-777c8300-33b4-11ea-9146-cfc6fe0252bf.png)
 
