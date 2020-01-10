@@ -21,7 +21,8 @@ step 4:	post-processing
 
 step 5:	evaluation 
 
-![h](https://user-images.githubusercontent.com/27900037/72138986-287a2200-33a3-11ea-8e34-b0651b8c140c.png)
+![h](https://user-images.githubusercontent.com/27900037/72147740-777c8300-33b4-11ea-9146-cfc6fe0252bf.png)
+
 
 
 # Plot discriminator and generator loss
